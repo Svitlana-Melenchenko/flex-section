@@ -1,0 +1,82 @@
+<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="homepage" viewBox="0 0 32 32">
+<path fill="#efeff4" style="fill: var(--color1, #efeff4)" d="M32 7.227v20.894h-32v-20.894l1.875-1.894h28.25l1.875 1.894z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M32 7.227v20.894h-16v-22.788h14.125l1.875 1.894z"></path>
+<path fill="#474f54" style="fill: var(--color3, #474f54)" d="M0 0h32v7.758h-32v-7.758z"></path>
+<path fill="#32393f" style="fill: var(--color4, #32393f)" d="M16 0h16v7.758h-16v-7.758z"></path>
+<path fill="#ff637b" style="fill: var(--color5, #ff637b)" d="M3.879 2.909h1.842v1.939h-1.842v-1.939z"></path>
+<path fill="#ff637b" style="fill: var(--color5, #ff637b)" d="M7.564 2.909h1.842v1.939h-1.842v-1.939z"></path>
+<path fill="#ff637b" style="fill: var(--color5, #ff637b)" d="M11.248 2.909h1.842v1.939h-1.842v-1.939z"></path>
+<path fill="#ff637b" style="fill: var(--color5, #ff637b)" d="M22.788 21.123v10.877h-5.61v-1.855h-1.87v1.855h-5.61v-10.877l5.685-4.638h1.552l5.853 4.638z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M5.818 11.152h20.848v1.939h-20.848v-1.939z"></path>
+<path fill="#c9c9d3" style="fill: var(--color6, #c9c9d3)" d="M16 11.152h10.182v1.939h-10.182v-1.939z"></path>
+<path fill="#e63950" style="fill: var(--color7, #e63950)" d="M22.788 21.123v10.877h-5.818v-1.855h-0.97v-13.66h0.718l6.070 4.638z"></path>
+<path fill="#efeff4" style="fill: var(--color1, #efeff4)" d="M15.030 22.788h1.939v1.939h-1.939v-1.939z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M16 22.788h0.97v1.939h-0.97v-1.939z"></path>
+<path fill="#676e74" style="fill: var(--color8, #676e74)" d="M25.212 22.89l-1.226 1.353-7.744-6.763-7.744 6.763-1.226-1.353 8.97-7.859 8.97 7.859z"></path>
+<path fill="#474f54" style="fill: var(--color3, #474f54)" d="M16 15.030l9.212 7.859-1.259 1.353-7.953-6.763v-2.449z"></path>
+</symbol>
+<symbol id="idea" viewBox="0 0 32 32">
+<path fill="#676e74" style="fill: var(--color8, #676e74)" d="M13.188 26.313h5.625v5.688h-5.625v-5.688z"></path>
+<path fill="#333637" style="fill: var(--color9, #333637)" d="M16 26.313h2.813v5.688h-2.813v-5.688z"></path>
+<path fill="#4c545a" style="fill: var(--color10, #4c545a)" d="M11.313 23.5h9.375v4.688h-9.375v-4.688z"></path>
+<path fill="#52585c" style="fill: var(--color11, #52585c)" d="M16 23.5h4.688v4.688h-4.688v-4.688z"></path>
+<path fill="#ffda2d" style="fill: var(--color12, #ffda2d)" d="M22.506 18.363c-1.162 0.956-1.819 2.306-1.819 3.712v1.425h-9.375v-1.425c0-1.425-0.619-2.756-1.65-3.563-2.531-1.969-3.975-4.931-3.975-8.137 0-3.113 1.387-6.037 3.806-8.006 1.856-1.5 4.125-2.369 6.506-2.369 0.731 0 1.481 0.075 2.212 0.225 4.050 0.844 7.238 4.225 7.95 8.331 0.637 3.75-0.713 7.425-3.657 9.806z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M22.506 18.363c-1.162 0.956-1.819 2.306-1.819 3.712v1.425h-4.688v-23.5c0.731 0 1.481 0.075 2.212 0.225 4.050 0.844 7.238 4.225 7.95 8.331 0.637 3.75-0.713 7.425-3.657 9.806z"></path>
+<path fill="#676e74" style="fill: var(--color8, #676e74)" d="M9.438 22.563h13.125v1.875h-13.125v-1.875z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M19.978 5.071l1.326 1.326-1.989 1.989-1.326-1.326 1.989-1.989z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M12.686 12.363l1.326 1.326-1.989 1.989-1.326-1.326 1.989-1.989z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M15.063 14.125h1.875v2.813h-1.875v-2.813z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M19.314 12.363l1.989 1.989-1.326 1.326-1.989-1.989 1.326-1.326z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M19.75 9.438h2.813v1.875h-2.813v-1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M12.022 5.071l1.989 1.99-1.326 1.325-1.989-1.989 1.326-1.326z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M9.438 9.438h2.813v1.875h-2.813v-1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M15.063 3.813h1.875v2.813h-1.875v-2.813z"></path>
+<path fill="#ffda2d" style="fill: var(--color12, #ffda2d)" d="M0 9.438h3.813v1.875h-3.813v-1.875z"></path>
+<path fill="#ffda2d" style="fill: var(--color12, #ffda2d)" d="M3.292 7.405l-2.875-1.875 1.040-1.56 2.875 1.875-1.040 1.56z"></path>
+<path fill="#ffda2d" style="fill: var(--color12, #ffda2d)" d="M1.458 16.78l-1.040-1.56 2.875-1.875 1.040 1.56-2.875 1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M28.188 9.438h3.813v1.875h-3.813v-1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M30.543 16.78l-2.875-1.875 1.040-1.56 2.875 1.875-1.040 1.56z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M28.707 7.405l-1.040-1.56 2.875-1.875 1.040 1.56-2.875 1.875z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M16 3.813h0.938v2.813h-0.938v-2.813z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M16 14.125h0.938v2.813h-0.938v-2.813z"></path>
+<path fill="#333637" style="fill: var(--color9, #333637)" d="M16 22.563h6.563v1.875h-6.563v-1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M16 5.688c-2.587 0-4.688 2.1-4.688 4.688s2.1 4.688 4.688 4.688c2.587 0 4.688-2.1 4.688-4.688s-2.1-4.688-4.688-4.688z"></path>
+<path fill="#ff9100" style="fill: var(--color14, #ff9100)" d="M16 15.063v-9.375c2.587 0 4.688 2.1 4.688 4.688s-2.1 4.688-4.688 4.688z"></path>
+<path fill="#ffda2d" style="fill: var(--color12, #ffda2d)" d="M15.063 9.438h1.875v1.875h-1.875v-1.875z"></path>
+<path fill="#fdbf00" style="fill: var(--color13, #fdbf00)" d="M16 9.438h0.938v1.875h-0.938v-1.875z"></path>
+</symbol>
+<symbol id="magnifier" viewBox="0 0 32 32">
+<path fill="#676e74" style="fill: var(--color8, #676e74)" d="M28.421 3.579c-4.763-4.782-12.451-4.763-17.214 0-4.013 4.013-4.725 10.22-1.763 15.001l-1.256 1.275-0.678 3.072 2.107 2.107 2.546-1.204 1.256-1.275c4.782 2.963 10.989 2.269 15.001-1.762 4.782-4.763 4.763-12.451 0-17.214z"></path>
+<path fill="#474f54" style="fill: var(--color3, #474f54)" d="M12.163 23.831l1.256-1.275c4.782 2.963 10.988 2.269 15.001-1.762 4.781-4.763 4.763-12.451 0-17.214l-20.13 20.13 1.326 1.326 2.546-1.204z"></path>
+<path fill="#64e1dc" style="fill: var(--color15, #64e1dc)" d="M27.106 4.894c-1.866-1.866-4.445-3.021-7.293-3.021-5.696 0-10.313 4.617-10.313 10.313 0 2.848 1.154 5.426 3.021 7.293s4.445 3.021 7.293 3.021c5.696 0 10.313-4.617 10.313-10.313 0-2.848-1.154-5.426-3.021-7.293z"></path>
+<path fill="#00c8c8" style="fill: var(--color16, #00c8c8)" d="M30.127 12.186c0-2.848-1.154-5.426-3.021-7.293l-14.585 14.585c1.866 1.866 4.445 3.020 7.293 3.020 5.696 0 10.313-4.617 10.313-10.313z"></path>
+<path fill="#efeff4" style="fill: var(--color1, #efeff4)" d="M28.119 11.705c-0.092-0.154-1.49-2.457-3.64-4.184-1.315-1.057-2.911-1.898-4.665-1.898-4.621 0-8.157 5.834-8.305 6.082l-0.288 0.481 0.288 0.481c0.092 0.154 1.49 2.457 3.64 4.185 1.315 1.056 2.911 1.898 4.665 1.898 4.621 0 8.157-5.834 8.305-6.082l0.287-0.481-0.287-0.481z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M28.119 12.667l0.287-0.481-0.287-0.481c-0.092-0.154-1.49-2.457-3.64-4.184l-9.33 9.33c1.315 1.056 2.911 1.898 4.665 1.898 4.621 0 8.157-5.834 8.305-6.082z"></path>
+<path fill="#64e1dc" style="fill: var(--color15, #64e1dc)" d="M21.802 10.198c-0.509-0.51-1.213-0.825-1.988-0.825-1.551 0-2.813 1.262-2.813 2.813 0 0.776 0.315 1.479 0.825 1.988s1.212 0.825 1.988 0.825c1.551 0 2.813-1.262 2.813-2.813 0-0.775-0.315-1.479-0.825-1.988z"></path>
+<path fill="#00c8c8" style="fill: var(--color16, #00c8c8)" d="M22.627 12.186c0-0.775-0.315-1.479-0.825-1.988l-3.976 3.976c0.509 0.509 1.212 0.825 1.988 0.825 1.551 0 2.813-1.262 2.813-2.813z"></path>
+<path fill="#676e74" style="fill: var(--color8, #676e74)" d="M20.477 11.523c-0.17-0.17-0.404-0.275-0.663-0.275-0.517 0-0.938 0.42-0.938 0.938 0 0.259 0.105 0.493 0.275 0.663s0.404 0.275 0.663 0.275c0.517 0 0.938-0.42 0.938-0.938 0-0.259-0.105-0.493-0.275-0.663z"></path>
+<path fill="#474f54" style="fill: var(--color3, #474f54)" d="M20.751 12.186c0-0.259-0.105-0.493-0.275-0.663l-1.326 1.326c0.17 0.17 0.404 0.275 0.663 0.275 0.517 0 0.938-0.42 0.938-0.938z"></path>
+<path fill="#575c60" style="fill: var(--color17, #575c60)" d="M10.166 21.834l-1.979-1.978-8.188 8.169 3.975 3.975 8.188-8.169-1.997-1.997z"></path>
+<path fill="#333637" style="fill: var(--color9, #333637)" d="M12.163 23.831l-1.997-1.997-8.179 8.179 1.988 1.988 8.188-8.169z"></path>
+</symbol>
+<symbol id="software" viewBox="0 0 32 32">
+<path fill="#474f54" style="fill: var(--color3, #474f54)" d="M32 0v20.625l-1.875 1.938h-28.25l-1.875-1.938v-20.625h32z"></path>
+<path fill="#32393f" style="fill: var(--color4, #32393f)" d="M32 0v20.625l-1.875 1.938h-14.125v-22.563h16z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M11.313 25.438h9.375v5.625h-9.375v-5.625z"></path>
+<path fill="#c9c9d3" style="fill: var(--color6, #c9c9d3)" d="M16 25.438h4.688v5.625h-4.688v-5.625z"></path>
+<path fill="#efeff4" style="fill: var(--color1, #efeff4)" d="M0 20.625h32v5.75h-32v-5.75z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M16 20.625h16v5.75h-16v-5.75z"></path>
+<path fill="#efeff4" style="fill: var(--color1, #efeff4)" d="M7.563 30.125h16.875v1.875h-16.875v-1.875z"></path>
+<path fill="#dadae5" style="fill: var(--color2, #dadae5)" d="M16 30.125h8.438v1.875h-8.438v-1.875z"></path>
+<path fill="#549ef2" style="fill: var(--color18, #549ef2)" d="M3.813 10.313c0-3.618 2.944-6.563 6.563-6.563s6.563 2.944 6.563 6.563c0 3.618-2.944 6.563-6.563 6.563s-6.563-2.944-6.563-6.563zM7.563 10.313c0 1.551 1.262 2.813 2.813 2.813s2.813-1.262 2.813-2.813c0-1.551-1.262-2.813-2.813-2.813s-2.813 1.262-2.813 2.813z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M22.563 3.75h5.688v1.875h-5.688v-1.875z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M18.813 3.75h1.875v1.875h-1.875v-1.875z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M22.563 11.25h5.688v1.875h-5.688v-1.875z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M18.813 11.25h1.875v1.875h-1.875v-1.875z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M18.813 7.5h9.438v1.875h-9.438v-1.875z"></path>
+<path fill="#377fd2" style="fill: var(--color19, #377fd2)" d="M18.813 15h9.438v1.875h-9.438v-1.875z"></path>
+</symbol>
+</defs>
+</svg>
